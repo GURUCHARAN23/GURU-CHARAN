@@ -1,1 +1,3 @@
-Hello this is a general portfolio about myself.
+# GURU CHARAN PORTFOLIO
+
+Hello Everyone, welcome to my portfolio which will be available soon.
