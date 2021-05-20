@@ -1,0 +1,1 @@
+Hello this is a general portfolio about myself.
